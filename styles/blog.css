@@ -1,6 +1,8 @@
-div{
-    
-    background-color: pink;
+div {
+    background: linear-gradient(to right, #2B103C, #3D2A5D, #572B66, #8F529B, #AC91C0);
     padding: 10px;
     margin-bottom: 10px;
+    color: white;
+    border-radius: 12px;
+    box-shadow: 0 0 20px #3D2A5D, 0 0 40px #8F529B;
 }
